@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using OpenTK;
 using System.Drawing;
 using OpenTK.Graphics.OpenGL;
@@ -47,11 +47,12 @@ namespace gamengine{
             
           funcs.background(135, 206, 235);
           //CODE FOR RENDEREING HERE:
-          
           funcs.setColor(244, 66, 223);
           GL.Begin(PrimitiveType.Points);
 
           
+          
+          window.SwapBuffers();
           
          }
 
