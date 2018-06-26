@@ -1,0 +1,11 @@
+/Users/arturo/Desktop/Stuff/tk/gamengine/bin/Debug/netcoreapp2.1/gamengine.deps.json
+/Users/arturo/Desktop/Stuff/tk/gamengine/bin/Debug/netcoreapp2.1/gamengine.runtimeconfig.json
+/Users/arturo/Desktop/Stuff/tk/gamengine/bin/Debug/netcoreapp2.1/gamengine.runtimeconfig.dev.json
+/Users/arturo/Desktop/Stuff/tk/gamengine/bin/Debug/netcoreapp2.1/gamengine.dll
+/Users/arturo/Desktop/Stuff/tk/gamengine/bin/Debug/netcoreapp2.1/gamengine.pdb
+/Users/arturo/Desktop/Stuff/tk/gamengine/obj/Debug/netcoreapp2.1/gamengine.csprojAssemblyReference.cache
+/Users/arturo/Desktop/Stuff/tk/gamengine/obj/Debug/netcoreapp2.1/gamengine.csproj.CoreCompileInputs.cache
+/Users/arturo/Desktop/Stuff/tk/gamengine/obj/Debug/netcoreapp2.1/gamengine.AssemblyInfoInputs.cache
+/Users/arturo/Desktop/Stuff/tk/gamengine/obj/Debug/netcoreapp2.1/gamengine.AssemblyInfo.cs
+/Users/arturo/Desktop/Stuff/tk/gamengine/obj/Debug/netcoreapp2.1/gamengine.dll
+/Users/arturo/Desktop/Stuff/tk/gamengine/obj/Debug/netcoreapp2.1/gamengine.pdb

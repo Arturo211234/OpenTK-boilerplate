@@ -1,0 +1,14 @@
+/Users/arturo/Desktop/Stuff/tk/gamengine/bin/Debug/netcoreapp2.1/osx.10.11-x64/libhostpolicy.dylib
+/Users/arturo/Desktop/Stuff/tk/gamengine/bin/Debug/netcoreapp2.1/osx.10.11-x64/libhostfxr.dylib
+/Users/arturo/Desktop/Stuff/tk/gamengine/bin/Debug/netcoreapp2.1/osx.10.11-x64/gamengine
+/Users/arturo/Desktop/Stuff/tk/gamengine/bin/Debug/netcoreapp2.1/osx.10.11-x64/gamengine.deps.json
+/Users/arturo/Desktop/Stuff/tk/gamengine/bin/Debug/netcoreapp2.1/osx.10.11-x64/gamengine.runtimeconfig.json
+/Users/arturo/Desktop/Stuff/tk/gamengine/bin/Debug/netcoreapp2.1/osx.10.11-x64/gamengine.runtimeconfig.dev.json
+/Users/arturo/Desktop/Stuff/tk/gamengine/bin/Debug/netcoreapp2.1/osx.10.11-x64/gamengine.dll
+/Users/arturo/Desktop/Stuff/tk/gamengine/bin/Debug/netcoreapp2.1/osx.10.11-x64/gamengine.pdb
+/Users/arturo/Desktop/Stuff/tk/gamengine/obj/Debug/netcoreapp2.1/osx.10.11-x64/gamengine.csprojAssemblyReference.cache
+/Users/arturo/Desktop/Stuff/tk/gamengine/obj/Debug/netcoreapp2.1/osx.10.11-x64/gamengine.csproj.CoreCompileInputs.cache
+/Users/arturo/Desktop/Stuff/tk/gamengine/obj/Debug/netcoreapp2.1/osx.10.11-x64/gamengine.AssemblyInfoInputs.cache
+/Users/arturo/Desktop/Stuff/tk/gamengine/obj/Debug/netcoreapp2.1/osx.10.11-x64/gamengine.AssemblyInfo.cs
+/Users/arturo/Desktop/Stuff/tk/gamengine/obj/Debug/netcoreapp2.1/osx.10.11-x64/gamengine.dll
+/Users/arturo/Desktop/Stuff/tk/gamengine/obj/Debug/netcoreapp2.1/osx.10.11-x64/gamengine.pdb
