@@ -21,7 +21,7 @@ namespace gamengine{
 
         }
 
-        //Declare your variables above this function, and initialise them in the function
+        //Declare your variables above this function, and initialise them in the function. They won't work if declared below
         int width = 800;
         int height = 600;
         
@@ -30,7 +30,7 @@ namespace gamengine{
          }
 
          initVariables();
-         OpenTK.GameWindow window = new OpenTK.GameWindow(width, height, OpenTK.Graphics.GraphicsMode.Default, "Myprogram - Arturo");
+         OpenTK.GameWindow window = new OpenTK.GameWindow(width, height, OpenTK.Graphics.GraphicsMode.Default, "Myprogram - Lilly");
          window.Load += init;
          window.RenderFrame += running;
          window.UpdateFrame += frameUpdate;
@@ -44,11 +44,11 @@ namespace gamengine{
          }
 
          void running(object sender, EventArgs e){
-            
-          funcs.background(135, 206, 235);
           //CODE FOR RENDEREING HERE:
-          funcs.setColor(244, 66, 223);
-          GL.Begin(PrimitiveType.Points);
+          funcs.background(135, 206, 235); // set background color
+             
+          funcs.setColor(244, 66, 223); //linecolor and stuff
+          GL.Begin(PrimitiveType.Points); // if u actually setu-up where tf u want ur dots to be drawn use this aafter
 
           
           
