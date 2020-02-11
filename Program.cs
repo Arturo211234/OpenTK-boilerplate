@@ -48,7 +48,7 @@ namespace gamengine{
           funcs.background(135, 206, 235); // set background color
              
           funcs.setColor(244, 66, 223); //linecolor and stuff
-          GL.Begin(PrimitiveType.Points); // if u actually setu-up where tf u want ur dots to be drawn use this aafter
+          GL.Begin(PrimitiveType.Points); // if u actually set-up where TF u want ur dots to be drawn use this aafter
 
           
           
