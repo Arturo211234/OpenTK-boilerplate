@@ -24,11 +24,9 @@ namespace gamefuncs{
 
 
         public static float getCoord(float coord_pos, int max){
-            float hw = max / 2;
-            float work = coord_pos - hw;
-            int tsgn = sign(work);
-            float abdist = (float)(abs(work));
-            float thepos = tsgn * (abdist / hw);
+            float undiv = coord_pos / max;
+            undiv = 2 * undiv;
+            float thepos = undiv -1;
             return thepos;
         }
 
